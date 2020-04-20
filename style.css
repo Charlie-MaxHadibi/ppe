@@ -1,0 +1,40 @@
+﻿body{
+	background-color : cyan
+}
+table {
+	border: 1px solid black;
+	border-collapse:collapse;
+	position:center;
+	box-shadow: 8px 8px 0px #aaa;
+}
+td {
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+.fixed{
+	position : fixed;
+	bottom: 10px;
+	left: 10px;
+}
+.bordur{
+	border : 2px solid black;
+}
+.conexion{
+	border : 2px solid black;
+	margin-right : 1025px;
+	padding-top : 20px;
+	padding-left : 20px;
+	padding-bottom : 20px;
+	text-align : center;
+	box-shadow : 5px 5px black;
+	background-color : beige;
+}
+/* h1{
+	text-align : center;
+} */
+.deco{
+	position : sticky;
+	bottom : 10px;
+	left : 10px;
+
+}
